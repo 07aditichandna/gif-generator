@@ -1,14 +1,14 @@
 
 import './App.css';
 
-import Random_gif from './Random_gif'
+import RandomGif from './RandomGif'
 
 
 function App()
 {
   return(
    <div>
-    <Random_gif/>
+    <RandomGif/>
    </div>
   )
 }
